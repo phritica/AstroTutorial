@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+- [Astroのチュートリアル](https://docs.astro.build/ja/getting-started/)
+
 ```sh
 yarn create astro@latest -- --template minimal
 ```
